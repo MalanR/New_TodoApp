@@ -1,0 +1,17 @@
+{
+    "title": "Shopping List",
+    "tasks": {
+        "434afa09-1": {
+            "description": "Buy milk",
+            "created_on": "19 15:41:28",
+            "completed_on": null,
+            "is_completed": false
+        },
+        "d24e9285-5": {
+            "description": "Buy eggs",
+            "created_on": "19 15:41:28",
+            "completed_on": null,
+            "is_completed": false
+        }
+    }
+}
